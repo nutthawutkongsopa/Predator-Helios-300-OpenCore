@@ -4,4 +4,4 @@
 > CPU&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Intel Core i7-8750H CPU @ 2.20GHz (Coffee Lake)  
 > RAM&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;16 GB DDR4  
 > Graphics&emsp;&emsp;&emsp;&emsp;Intel UHD Graphics 630  
-> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;NVIDIA GeForce GTX 1060  
+> OS&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;MacOS Big Sur
